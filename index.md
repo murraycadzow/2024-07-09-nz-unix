@@ -80,7 +80,9 @@ displayed if the 'eventbrite' field in the header is not set.
   scrolling="auto">
 </iframe>
 {% endif %}
+<h2>Registration</h2>
 
+This workshop is being offered as part of Research Bazaar Aoteroa, please reigster at [https://resbaz.auckland.ac.nz/schedule/#session-57](https://resbaz.auckland.ac.nz/schedule/#session-57).
 
 <h2 id="general">General Information</h2>
 
