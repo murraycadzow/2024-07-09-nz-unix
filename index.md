@@ -1,23 +1,23 @@
 ---
-layout: workshop      # DON'T CHANGE THIS.
+layout: workshop # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "University of Otago"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
-country: "nz"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
-language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
-latitude: "38.045719"        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "78.515556"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "9 July 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "10 am - 3 pm"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-startdate: 2024-07-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2024-07-09        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Murray Cadzow"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["murray.cadzow@otago.ac.nz","nisha.ghatak@nesi.org.nz"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+venue: "University of Otago" # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+address: "online" # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+country: "nz" # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
+language: "en" # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
+latitude: "38.045719" # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "-78.515556" # decimal longitude of the workshop venue (use https://www.latlong.net)
+humandate: "10 July 2024" # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "1pm - 5pm" # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+startdate: 2024-07-10 # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2024-07-10 # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Murray Cadzow", "Tom Saunders"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Cecilia Wang"] # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+email: ["murray.cadzow@otago.ac.nz"] # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+collaborative_notes: # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+eventbrite: # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
